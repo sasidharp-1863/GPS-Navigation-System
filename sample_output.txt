@@ -1,0 +1,113 @@
+---- GOS Navigation System ----
+1.Add Location
+2.Add Road
+3.Delete Location
+4.Delete Road
+5.Update Location
+6.Update Road
+7.Display Map
+8.Shortest Path
+9.Exit
+1
+Enter location name: Chennai
+Location added.
+
+1.Add Location
+2.Add Road
+3.Delete Location
+4.Delete Road
+5.Update Location
+6.Update Road
+7.Display Map
+8.Shortest Path
+9.Exit
+1
+Enter location name: Vellore
+Location added.
+
+1.Add Location
+2.Add Road
+3.Delete Location
+4.Delete Road
+5.Update Location
+6.Update Road
+7.Display Map
+8.Shortest Path
+9.Exit
+1
+Enter location name: Bangalore
+Location added.
+
+1.Add Location
+2.Add Road
+3.Delete Location
+4.Delete Road
+5.Update Location
+6.Update Road
+7.Display Map
+8.Shortest Path
+9.Exit
+2
+Enter source: Chennai
+Enter destination: Vellore    
+Enter distance: 140
+Road added.
+
+1.Add Location
+2.Add Road
+3.Delete Location
+4.Delete Road
+5.Update Location
+6.Update Road
+7.Display Map
+8.Shortest Path
+9.Exit
+2
+Enter source: Vellore 
+Enter destination: Bangalore
+Enter distance: 210
+Road added.
+
+1.Add Location
+2.Add Road
+3.Delete Location
+4.Delete Road
+5.Update Location
+6.Update Road
+7.Display Map
+8.Shortest Path
+9.Exit
+2
+Enter source: Chennai
+Enter destination: Bangalore
+Enter distance: 500
+Road added.
+
+1.Add Location
+2.Add Road
+3.Delete Location
+4.Delete Road
+5.Update Location
+6.Update Road
+7.Display Map
+8.Shortest Path
+9.Exit
+7
+Bangalore -> 
+Vellore -> Bangalore(210)
+Chennai -> Bangalore(500) Vellore(140)
+
+1.Add Location
+2.Add Road
+3.Delete Location
+4.Delete Road
+5.Update Location
+6.Update Road
+7.Display Map
+8.Shortest Path
+9.Exit
+8
+Enter source: Chennai
+Enter destination: Bangalore
+Shortest Distance: 350
+Path: Chennai -> Vellore -> Bangalore
