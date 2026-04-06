@@ -27,9 +27,11 @@ This ensures the shortest path is found efficiently.
 
 ## Compilation and Execution
 Step 1: Compile the program
+
 gcc src/main.c -o project
 
 Step 2: Run the program
+
 ./project
 
 ## Features
