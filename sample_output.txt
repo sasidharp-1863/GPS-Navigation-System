@@ -1,4 +1,4 @@
----- GOS Navigation System ----
+---- GPS Navigation System ----
 1.Add Location
 2.Add Road
 3.Delete Location
