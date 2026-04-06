@@ -46,3 +46,11 @@ Step 2: Run the program
 
 ## Sample Output
 Refer sample_output.txt
+
+## Demo Video
+
+The demo video demonstrates:
+- Adding locations and roads
+- Displaying the map
+- Finding the shortest path using Dijkstra’s Algorithm
+
